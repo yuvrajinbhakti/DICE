@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461063531539",
+    "project_id": "dice2-47d2c",
+    "storage_bucket": "dice2-47d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461063531539:android:3b21a00ba49feb9cf963e6",
+        "android_client_info": {
+          "package_name": "com.example.dice2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461063531539-5k33rtth0ar4f2jkq1ju1jrd65g83t78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dice2",
+            "certificate_hash": "6e9b14a3f8b17ad2e5bec350a34e5d31ef237131"
+          }
+        },
+        {
+          "client_id": "461063531539-49cvtfd0pe44ugl7l14r8gnlii13sngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZx3b6QSrx6fiaTExtHdz4Er7iszlgtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461063531539-49cvtfd0pe44ugl7l14r8gnlii13sngm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
